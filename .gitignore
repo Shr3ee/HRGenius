@@ -4,3 +4,4 @@ target/
 .env
 *.log
 hrgenius-frontend/.vscode/mcp.json
+project\src\main\resources\application.properties
